@@ -1,99 +1,91 @@
 ---
 # Display name
-title: 吳健雄
+title: Madilyn Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Madilyn
+last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✨
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Master in Business Analytics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of California, Davis
+    url: https://www.ucdavis.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:madelynxujy@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/madilynxu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/jingyang-xu/
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: University of California, Davis
+    institution: Master of Science in Business Analytics
+    date_start: 2024-08
+    date_end: 2025-08
+    summary:
+      Courses included:
+      -  Data Management, Advanced Statistics, Machine Learning, Big Data, Analytic Decision Making
+    
+  - area: Shanghai University of Finance and Economics
+    institution: Bachelor of Economics in Investment with a Minor in Law
+    date_start: 2020-09
+    date_end: 2024-06
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+Professional Experience:
+  - position: Data Analyst, Practicum Project
+    company_name: Sea Otter Savvy
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      - As part of the MSBA, created an interactive R Shiny web application for a non-profit wildlife conservation organization, enhancing data visualization and analysis capabilities for improved decision-making.
+        
+  - position: Strategy Analyst Intern
+    company_name: ByteDance
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-01
+    date_end: 2024-06
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed strategic analysis to optimize supply costs for TikTok Shop through data tracking, market research, and cross-funtional collaboration.
+    
+  - position: Bond Underwriting Analyst Intern
+    company_name: China Industrial Securities
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-04
+    date_end: 2023-06
+    summary: |
+      - Spearheaded multiple corporate bond and non-financial enterprise debt financing projects, including preliminary research, due diligence, and the preparation of key issuance documents.
+
+  - position: Audit Intern
+    company_name: PricewaterhouseCoopers
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01
+    date_end: 2023-03
+    summary: |
+      - Participated in a Hong Kong IPO project for a top 5 global dining brand, assisting with financial due diligence and audit reviews.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -108,65 +100,38 @@ skills:
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: SQL
         description: ''
         percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: devicon/sql
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
+
+# Projects
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+Projects:
+  - title: Store Opening Toolkit
+    url: https://github.com/madilynxu/Store-Opening-Toolkit
+    date: '2025-02'
     awarder: Coursera
-    icon: coursera
+    icon:
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    
+    
+  - title: Remote Work on Mental Health
+    url: https://github.com/madilynxu/Remote-Work-on-Mental-Health
+    date: '2024-11'
     awarder: edX
-    icon: edx
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    
+
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I’m always eager to learn, collaborate, and share insights with fellow professionals in data analytics. Feel free to connect with me on LinkedIn or reach out to me via email!
