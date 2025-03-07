@@ -48,7 +48,7 @@ education:
     institution: Bachelor of Economics in Investment with a Minor in Law
     date_start: 2020-09-01
     date_end: 2024-06-30
-professional experience:
+work:
   - position: Data Analyst, Practicum Project
     company_name: Sea Otter Savvy
     company_url: ''
@@ -117,17 +117,17 @@ projects:
   - title: Store Opening Toolkit
     url: https://github.com/madilynxu/Store-Opening-Toolkit
     date: '2025-02-01'
-    awarder: School Project
+    awarder: Data Design & Representation Project
     icon:
     summary: |
-      Design    
+      Design a Store Opening Toolkit utilizing GoogleMap and Yelp API, helping store owner to opening a store in San Francisco, 
   - title: Remote Work on Mental Health
     url: https://github.com/madilynxu/Remote-Work-on-Mental-Health
     date: '2024-11-01'
-    awarder: School Project
+    awarder: Data Management Project
     icon: 
     summary: |
-      Design
+      Using SQL to dive into how working remotely affects stress levels, work-life balance, and mental health conditions across various industries and regions.
 ---
 
 Master of Science in Business Analytics candidate at UC Davis with 2+ years experience in e-commerce strategies and financial analytics. Passionate about leveraging business acumen with robust analytic skills to drive impactful decision-making.
