@@ -110,7 +110,7 @@ languages:
     percent: 100
 
 
-# Projects
+# Awards.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
@@ -118,14 +118,14 @@ awards:
     url: https://github.com/madilynxu/Store-Opening-Toolkit
     date: '2025-02-01'
     awarder: Data Design & Representation Project
-    icon:
+    icon:''
     summary: |
       Design a Store Opening Toolkit utilizing GoogleMap and Yelp API, helping store owner to opening a store in San Francisco, 
   - title: Remote Work on Mental Health
     url: https://github.com/madilynxu/Remote-Work-on-Mental-Health
     date: '2024-11-01'
     awarder: Data Management Project
-    icon: 
+    icon:''
     summary: |
       Using SQL to dive into how working remotely affects stress levels, work-life balance, and mental health conditions across various industries and regions.
 ---
