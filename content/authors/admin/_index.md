@@ -109,7 +109,6 @@ languages:
   - name: Chinese
     percent: 100
 
-
 # Awards.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
