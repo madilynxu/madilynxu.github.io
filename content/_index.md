@@ -37,7 +37,7 @@ sections:
     content:
       title: Skills
       username: admin
-  - block: projects
+  - block: awards
     content:
       title: Projects
       username: admin
