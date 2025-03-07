@@ -113,7 +113,7 @@ languages:
 # Projects
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-projects:
+awards:
   - title: Store Opening Toolkit
     url: https://github.com/madilynxu/Store-Opening-Toolkit
     date: '2025-02-01'
