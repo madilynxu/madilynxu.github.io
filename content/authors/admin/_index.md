@@ -119,7 +119,7 @@ Projects:
   - title: Store Opening Toolkit
     url: https://github.com/madilynxu/Store-Opening-Toolkit
     date: '2025-02'
-    awarder: Coursera
+    awarder: School Project
     icon:
     summary: |
     
@@ -127,7 +127,7 @@ Projects:
   - title: Remote Work on Mental Health
     url: https://github.com/madilynxu/Remote-Work-on-Mental-Health
     date: '2024-11'
-    awarder: edX
+    awarder: School Project
     icon: 
     summary: |
     
