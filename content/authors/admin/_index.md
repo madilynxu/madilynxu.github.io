@@ -48,7 +48,7 @@ education:
     institution: Bachelor of Economics in Investment with a Minor in Law
     date_start: 2020-09-01
     date_end: 2024-06-30
-Professional Experience:
+professional experience:
   - position: Data Analyst, Practicum Project
     company_name: Sea Otter Savvy
     company_url: ''
@@ -113,7 +113,7 @@ languages:
 # Projects
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Projects:
+projects:
   - title: Store Opening Toolkit
     url: https://github.com/madilynxu/Store-Opening-Toolkit
     date: '2025-02-01'
@@ -130,4 +130,4 @@ Projects:
       Design
 ---
 
-I’m always eager to learn, collaborate, and share insights with fellow professionals in data analytics. Feel free to connect with me on LinkedIn or reach out to me via email!
+Master of Science in Business Analytics candidate at UC Davis with 2+ years experience in e-commerce strategies and financial analytics. Passionate about leveraging business acumen with robust analytic skills to drive impactful decision-making.
