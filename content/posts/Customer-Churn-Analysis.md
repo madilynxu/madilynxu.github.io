@@ -1,7 +1,7 @@
 ---
 title: 'E-commerce Customer Churn Analysis & Prediction'
 summary: Predicting customer churn and performing customer segmentation for an e-commerce platform
-date: 2025-03-20
+date: '2025-03-21T02:04:36-07:00'
 series: ["PaperMod"]
 weight: 1
 aliases: ["/papermod-installation"]

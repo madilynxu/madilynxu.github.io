@@ -1,7 +1,7 @@
 ---
 title: 'Store Opening Toolkit'
 summary: A comprehensive toolset for potential business owners looking to open physical stores, leveraging APIs like Google Maps, Yelp Fusion, and OpenAI to generate location-specific recommendations for shop openings.
-date: 2025-03-20
+date: '2025-03-21T02:04:36-07:00'
 series: ["PaperMod"]
 weight: 1
 aliases: ["/papermod-installation"]

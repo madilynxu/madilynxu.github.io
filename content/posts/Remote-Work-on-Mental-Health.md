@@ -1,7 +1,7 @@
 ---
 title: 'Remote Work on Mental Health'
 summary: How different work environments (onsite, hybrid, and remote) affect employees' mental health, stress levels, work-life balance, and productivity across various industries.
-date: 2025-03-20
+date: '2025-03-21T02:04:36-07:00'
 series: ["PaperMod"]
 weight: 1
 aliases: ["/papermod-installation"]
