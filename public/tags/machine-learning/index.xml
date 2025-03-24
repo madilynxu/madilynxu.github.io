@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machine Learning on Madilyn Xu</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Madilyn Xu</description>
+    <image>
+      <title>Madilyn Xu</title>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Mar 2025 02:04:36 -0700</lastBuildDate>
+    <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E-commerce Customer Churn Analysis &amp; Prediction</title>
+      <link>/posts/customer-churn-analysis/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>/posts/customer-churn-analysis/</guid>
+      <description>Predicting customer churn and performing customer segmentation for an e-commerce platform</description>
+    </item>
+  </channel>
+</rss>
