@@ -217,3 +217,5 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+  x:
+    disableInlineCSS: true
