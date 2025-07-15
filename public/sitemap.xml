@@ -2,19 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>//localhost:1313/en/sitemap.xml</loc>
+    <loc>https://madilynxu.github.io/en/sitemap.xml</loc>
     
       <lastmod>2025-03-21T02:20:23-07:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:1313/fr/sitemap.xml</loc>
+    <loc>https://madilynxu.github.io/fr/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:1313/fa/sitemap.xml</loc>
+    <loc>https://madilynxu.github.io/fa/sitemap.xml</loc>
     
   </sitemap>
   

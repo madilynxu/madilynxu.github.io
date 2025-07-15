@@ -8,7 +8,7 @@ aliases: ["/papermod-installation"]
 tags: ["WebScrapping", "Python"]
 author: ["Madilyn Xu"]
 cover:
-  image: images/papermod-cover.png
+  image: images/ProfileImage.jpg
   hiddenInList: true
 social:
   fediverse_creator: "@adityatelange@mastodon.social"

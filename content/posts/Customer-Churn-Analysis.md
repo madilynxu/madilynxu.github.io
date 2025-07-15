@@ -8,7 +8,7 @@ aliases: ["/papermod-installation"]
 tags: ["Machine Learning","Python"]
 author: ["Madilyn Xu"]
 cover:
-  image: images/papermod-cover.png
+  image: images/Churn.png
   hiddenInList: true
 social:
   fediverse_creator: "@adityatelange@mastodon.social"
