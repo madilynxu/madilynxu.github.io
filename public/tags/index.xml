@@ -2,43 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Madilyn Xu</title>
-    <link>https://madilynxu.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Madilyn Xu</description>
     <image>
       <title>Madilyn Xu</title>
-      <url>https://madilynxu.github.io/images/papermod-cover.png</url>
-      <link>https://madilynxu.github.io/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Mar 2025 02:04:36 -0700</lastBuildDate>
-    <atom:link href="https://madilynxu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APIs</title>
+      <link>http://localhost:1313/tags/apis/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/apis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business Intelligence</title>
+      <link>http://localhost:1313/tags/business-intelligence/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/business-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customer Segmentation</title>
+      <link>http://localhost:1313/tags/customer-segmentation/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/customer-segmentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Visualization</title>
+      <link>http://localhost:1313/tags/data-visualization/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E-Commerce</title>
+      <link>http://localhost:1313/tags/e-commerce/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Maps API</title>
+      <link>http://localhost:1313/tags/google-maps-api/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/google-maps-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location Analysis</title>
+      <link>http://localhost:1313/tags/location-analysis/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/location-analysis/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Machine Learning</title>
-      <link>https://madilynxu.github.io/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
-      <guid>https://madilynxu.github.io/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/tags/mental-health/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI API</title>
+      <link>http://localhost:1313/tags/openai-api/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/openai-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictive Modeling</title>
+      <link>http://localhost:1313/tags/predictive-modeling/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/predictive-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://madilynxu.github.io/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
-      <guid>https://madilynxu.github.io/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Remote Work</title>
+      <link>http://localhost:1313/tags/remote-work/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/remote-work/</guid>
       <description></description>
     </item>
     <item>
       <title>SQL</title>
-      <link>https://madilynxu.github.io/tags/sql/</link>
+      <link>http://localhost:1313/tags/sql/</link>
       <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
-      <guid>https://madilynxu.github.io/tags/sql/</guid>
+      <guid>http://localhost:1313/tags/sql/</guid>
       <description></description>
     </item>
     <item>
-      <title>WebScrapping</title>
-      <link>https://madilynxu.github.io/tags/webscrapping/</link>
+      <title>Statistical Analysis</title>
+      <link>http://localhost:1313/tags/statistical-analysis/</link>
       <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
-      <guid>https://madilynxu.github.io/tags/webscrapping/</guid>
+      <guid>http://localhost:1313/tags/statistical-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Scraping</title>
+      <link>http://localhost:1313/tags/web-scraping/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XGBoost</title>
+      <link>http://localhost:1313/tags/xgboost/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/xgboost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yelp API</title>
+      <link>http://localhost:1313/tags/yelp-api/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/yelp-api/</guid>
       <description></description>
     </item>
   </channel>

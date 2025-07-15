@@ -5,7 +5,7 @@ date: '2025-03-21T02:04:36-07:00'
 series: ["PaperMod"]
 weight: 1
 aliases: ["/papermod-installation"]
-tags: ["WebScrapping", "Python"]
+tags: ["Web Scraping", "Python", "APIs", "Business Intelligence", "Location Analysis", "Google Maps API", "Yelp API", "OpenAI API"]
 author: ["Madilyn Xu"]
 cover:
   image: images/ProfileImage.jpg

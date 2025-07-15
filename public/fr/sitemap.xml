@@ -2,27 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://madilynxu.github.io/fr/frcategories/</loc>
+    <loc>http://localhost:1313/fr/frcategories/</loc>
   </url><url>
-    <loc>https://madilynxu.github.io/fr/frseries/</loc>
+    <loc>http://localhost:1313/fr/frseries/</loc>
   </url><url>
-    <loc>https://madilynxu.github.io/fr/frtags/</loc>
+    <loc>http://localhost:1313/fr/frtags/</loc>
   </url><url>
-    <loc>https://madilynxu.github.io/fr/</loc>
+    <loc>http://localhost:1313/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://madilynxu.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://madilynxu.github.io/fa/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://madilynxu.github.io/fr/"
+                href="http://localhost:1313/fr/"
                 />
   </url>
 </urlset>

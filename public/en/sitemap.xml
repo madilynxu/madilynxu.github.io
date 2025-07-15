@@ -2,57 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://madilynxu.github.io/posts/customer-churn-analysis/</loc>
+    <loc>http://localhost:1313/posts/customer-churn-analysis/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/posts/remote-work-on-mental-health/</loc>
+    <loc>http://localhost:1313/posts/remote-work-on-mental-health/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/posts/store-opening-toolkit/</loc>
+    <loc>http://localhost:1313/posts/store-opening-toolkit/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-21T02:20:23-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://madilynxu.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://madilynxu.github.io/fa/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://madilynxu.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://madilynxu.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-21T02:20:23-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/apis/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/series/papermod/</loc>
+    <loc>http://localhost:1313/tags/business-intelligence/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/customer-segmentation/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/series/</loc>
+    <loc>http://localhost:1313/tags/data-analysis/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/tags/sql/</loc>
+    <loc>http://localhost:1313/tags/data-visualization/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/e-commerce/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/tags/webscrapping/</loc>
+    <loc>http://localhost:1313/tags/google-maps-api/</loc>
     <lastmod>2025-03-21T02:04:36-07:00</lastmod>
   </url><url>
-    <loc>https://madilynxu.github.io/categories/</loc>
+    <loc>http://localhost:1313/tags/location-analysis/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/openai-api/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/papermod/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/predictive-modeling/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/remote-work/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sql/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/statistical-analysis/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-scraping/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/xgboost/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/yelp-api/</loc>
+    <lastmod>2025-03-21T02:04:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

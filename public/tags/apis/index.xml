@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>APIs on Madilyn Xu</title>
+    <link>http://localhost:1313/tags/apis/</link>
+    <description>Recent content in APIs on Madilyn Xu</description>
+    <image>
+      <title>Madilyn Xu</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Mar 2025 02:04:36 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/apis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Store Opening Toolkit</title>
+      <link>http://localhost:1313/posts/store-opening-toolkit/</link>
+      <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
+      <guid>http://localhost:1313/posts/store-opening-toolkit/</guid>
+      <description>A comprehensive toolset for potential business owners looking to open physical stores, leveraging APIs like Google Maps, Yelp Fusion, and OpenAI to generate location-specific recommendations for shop openings.</description>
+    </item>
+  </channel>
+</rss>

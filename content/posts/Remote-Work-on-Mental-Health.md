@@ -5,7 +5,7 @@ date: '2025-03-21T02:04:36-07:00'
 series: ["PaperMod"]
 weight: 1
 aliases: ["/papermod-installation"]
-tags: ["SQL"]
+tags: ["SQL", "Data Analysis", "Statistical Analysis", "Mental Health", "Remote Work", "Data Visualization"]
 author: ["Madilyn Xu"]
 cover:
   image: images/ProfileImage.jpg

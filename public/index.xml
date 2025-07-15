@@ -2,37 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Madilyn Xu</title>
-    <link>https://madilynxu.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Madilyn Xu</description>
     <image>
       <title>Madilyn Xu</title>
-      <url>https://madilynxu.github.io/images/papermod-cover.png</url>
-      <link>https://madilynxu.github.io/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Mar 2025 02:04:36 -0700</lastBuildDate>
-    <atom:link href="https://madilynxu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>E-commerce Customer Churn Analysis &amp; Prediction</title>
-      <link>https://madilynxu.github.io/posts/customer-churn-analysis/</link>
+      <link>http://localhost:1313/posts/customer-churn-analysis/</link>
       <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
-      <guid>https://madilynxu.github.io/posts/customer-churn-analysis/</guid>
+      <guid>http://localhost:1313/posts/customer-churn-analysis/</guid>
       <description>Predicting customer churn and performing customer segmentation for an e-commerce platform</description>
     </item>
     <item>
       <title>Remote Work on Mental Health</title>
-      <link>https://madilynxu.github.io/posts/remote-work-on-mental-health/</link>
+      <link>http://localhost:1313/posts/remote-work-on-mental-health/</link>
       <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
-      <guid>https://madilynxu.github.io/posts/remote-work-on-mental-health/</guid>
+      <guid>http://localhost:1313/posts/remote-work-on-mental-health/</guid>
       <description>How different work environments (onsite, hybrid, and remote) affect employees&amp;rsquo; mental health, stress levels, work-life balance, and productivity across various industries.</description>
     </item>
     <item>
       <title>Store Opening Toolkit</title>
-      <link>https://madilynxu.github.io/posts/store-opening-toolkit/</link>
+      <link>http://localhost:1313/posts/store-opening-toolkit/</link>
       <pubDate>Fri, 21 Mar 2025 02:04:36 -0700</pubDate>
-      <guid>https://madilynxu.github.io/posts/store-opening-toolkit/</guid>
+      <guid>http://localhost:1313/posts/store-opening-toolkit/</guid>
       <description>A comprehensive toolset for potential business owners looking to open physical stores, leveraging APIs like Google Maps, Yelp Fusion, and OpenAI to generate location-specific recommendations for shop openings.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;
+&lt;h3 id=&#34;university-of-california-davis&#34;&gt;&lt;strong&gt;University of California, Davis&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Master of Science in Business Analytics&lt;/em&gt; | Aug 2024 – Aug 2025&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Relevant Coursework&lt;/strong&gt;: Data Management, Advanced Statistics, Machine Learning, Big Data, Analytic Decision Making&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;shanghai-university-of-finance-and-economics&#34;&gt;&lt;strong&gt;Shanghai University of Finance and Economics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Bachelor of Economics in Investment with a Minor in Law&lt;/em&gt; | Sept 2020 – Jun 2024&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-professional-experience&#34;&gt;💼 Professional Experience&lt;/h2&gt;
+&lt;h3 id=&#34;data-analyst-sea-otter-savvy&#34;&gt;&lt;em&gt;Data Analyst&lt;/em&gt; @Sea Otter Savvy&lt;/h3&gt;
+&lt;p&gt;Aug 2024 – Jun 2025&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As part of the MSBA, created an interactive R Shiny web application for a non-profit wildlife conservation organization, enhancing data visualization and analysis capabilities for improved decision-making.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategy-analyst-intern-bytedance&#34;&gt;&lt;em&gt;Strategy Analyst Intern&lt;/em&gt; @ByteDance&lt;/h3&gt;
+&lt;p&gt;Jan 2024 – Jun 2024&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

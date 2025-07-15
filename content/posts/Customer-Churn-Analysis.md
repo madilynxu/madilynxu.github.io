@@ -5,7 +5,7 @@ date: '2025-03-21T02:04:36-07:00'
 series: ["PaperMod"]
 weight: 1
 aliases: ["/papermod-installation"]
-tags: ["Machine Learning","Python"]
+tags: ["Machine Learning", "Python", "SQL", "Data Analysis", "Customer Segmentation", "XGBoost", "Predictive Modeling", "E-commerce"]
 author: ["Madilyn Xu"]
 cover:
   image: images/Churn.png
